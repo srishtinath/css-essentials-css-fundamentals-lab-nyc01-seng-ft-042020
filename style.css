@@ -18,3 +18,8 @@ nav {
   padding-right: 10px;
   background-color: grey;
 }
+
+figcaption {
+  font-size: 8px;
+  align: center;
+}
