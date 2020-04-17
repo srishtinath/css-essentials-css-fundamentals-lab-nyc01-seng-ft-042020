@@ -35,7 +35,7 @@ figcaption {
 }
 
 #details div {
-  align: center;
+  align-items: center;
   background-color: grey;
   width: 25%;
 }
