@@ -5,15 +5,15 @@ body {
 }
 
 header {
-  align: center;
+  align-items: center;
 }
 
 img {
-  align: center;
+  align-items: center;
 }
 
 nav {
-  align: center;
+  align-items: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey;
