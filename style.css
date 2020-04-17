@@ -28,3 +28,8 @@ figcaption {
   width: 800px;
   align: center;
 }
+
+#details {
+  display: block;
+  float: left;
+}
